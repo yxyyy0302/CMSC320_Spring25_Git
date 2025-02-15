@@ -1,0 +1,4 @@
+Q1: Why might we consider using Git?
+
+Answer: Because it's a very powerful version control system, and you can easily write, update, and delete code to the files you
+have made before. It's also great for code collaboration.
